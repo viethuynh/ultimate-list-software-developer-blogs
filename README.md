@@ -1,4 +1,4 @@
-The Ultimate List of Software Developer Blogs
+#The Ultimate List of Software Developer Blogs
 
 As far as I know, a “master list” of all the best software developer blogs does not exist. You can find small language specific lists, but nothing that contains a large quantity of different languages.
 
@@ -8,7 +8,7 @@ If you notice that something doesn’t quite fit or if there is an excellent res
 
 If you have an excellent blog where you post up-to-date content on one of the subjects below, let me know in the comments below.
 
-Android
+- [Android](#Android)
 C and C++
 C#
 Data Science, Machine Learning
